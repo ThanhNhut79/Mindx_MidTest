@@ -1,5 +1,3 @@
-// Import necessary modules and the Profile model
-
 import ProfileService from "../Services/profileService.js";
 
 const ProfileController = {
